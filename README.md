@@ -48,12 +48,3 @@ interpreted as real-world damage ground truth.
 Live LLM evaluation may be affected by provider availability or
 rate limits.
 
-## Results
-
-- 194,018 Gaussians in the baseline PLY
-- 35,731 persistent grain IDs
-- 11,090 Gaussians removed in the controlled synthetic-damage scan
-- 2,117 missing persistent grain IDs detected
-- 160 partially reduced grains detected
-- 2 damage zones identified
-- 122 flagged ΔH cells
